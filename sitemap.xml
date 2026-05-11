@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://13kailouis.github.io/wefluence-ekosistem-konten/</loc>
-    <lastmod>2026-05-08</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -87,6 +87,12 @@
   <url>
     <loc>https://13kailouis.github.io/wefluence-ekosistem-konten/apa-itu-ekosistem-konten-digital-indonesia.html</loc>
     <lastmod>2026-05-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://13kailouis.github.io/wefluence-ekosistem-konten/tren-konten-viral-indonesia-tiktok-2026.html</loc>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
